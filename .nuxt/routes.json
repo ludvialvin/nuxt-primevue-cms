@@ -1,0 +1,43 @@
+[
+  {
+    "name": "404",
+    "path": "/404",
+    "component": "D:\\\\Phonegap\\\\nuxt\\\\primevue_cms\\\\pages\\\\404.vue",
+    "chunkName": "pages/404",
+    "_name": "_cc354d98"
+  },
+  {
+    "name": "articles",
+    "path": "/articles",
+    "component": "D:\\\\Phonegap\\\\nuxt\\\\primevue_cms\\\\pages\\\\articles\\\\index.vue",
+    "chunkName": "pages/articles/index",
+    "_name": "_49f6c01e"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "D:\\\\Phonegap\\\\nuxt\\\\primevue_cms\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_b95d9436"
+  },
+  {
+    "name": "profile",
+    "path": "/profile",
+    "component": "D:\\\\Phonegap\\\\nuxt\\\\primevue_cms\\\\pages\\\\profile\\\\index.vue",
+    "chunkName": "pages/profile/index",
+    "_name": "_68a86c86"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Phonegap\\\\nuxt\\\\primevue_cms\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_4cacda64"
+  },
+  {
+    "name": "custom",
+    "path": "*",
+    "component": "~/pages/404.vue",
+    "_name": "_8f6e3c04"
+  }
+]

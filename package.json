@@ -1,0 +1,25 @@
+{
+  "name": "primevue-nuxtjs-cms",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Prime",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt --port 3002",
+    "devmon": "nodemon --exec nuxt --port 3002",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/auth": "^4.9.1",
+    "@nuxtjs/axios": "^5.12.2",
+    "@nuxtjs/proxy": "^2.0.1",
+    "nuxt": "^2.0.0",
+    "primeicons": "2.0.0",
+    "primevue": "^2.1.0",
+    "vue": "2.6.12",
+    "vue-server-renderer": "^2.6.12"
+  },
+  "devDependencies": {}
+}
